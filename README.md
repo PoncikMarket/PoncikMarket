@@ -51,8 +51,3 @@ My core motivation comes from providing tools and resources that are often sold 
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PoncikMarket/PoncikMarket/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
----
-<div align="center">
-  <i>"I'm such a hardware enthusiast that I dream of designing custom PC cases shaped like gas turbine engines!"</i> ⚙️
-</div>
